@@ -1,0 +1,8 @@
+*~
+*.swp
+*.bin
+*.bak
+
+# ignore floppy images etc...
+*.img
+
