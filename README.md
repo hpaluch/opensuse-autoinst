@@ -67,7 +67,7 @@ When installer appears do this:
 
 Optional: in `virt-manager` I prefer to set `View`->
 `Scale display` -> `Always` to stand ridiculously high resolution
-set by KMS while installing openSUSE (thoretically you cand override
+set by KMS while installing openSUSE (theoretically you can override
 it by appending `video=Virtual-1:1024x768` to `Boot Options:` but I'm to lazy :-)
 
 
